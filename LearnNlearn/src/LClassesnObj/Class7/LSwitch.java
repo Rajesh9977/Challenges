@@ -1,4 +1,4 @@
-package LClassesnObj;
+package LClassesnObj.Class7;
 
 import java.util.Scanner;
 
