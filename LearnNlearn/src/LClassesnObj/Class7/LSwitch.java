@@ -16,6 +16,8 @@ public class LSwitch {
                 break;
             default:
                 System.out.print("Invalid");
+                int reverse = 0;
+
 
         }
     }
