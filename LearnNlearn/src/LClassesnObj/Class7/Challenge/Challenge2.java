@@ -9,6 +9,7 @@ public class Challenge2 {
         int a = input.nextInt();
         String result = a % 2 == 0? "EVEN" : "ODD";
         System.out.print("your number is "+ result);
+        System.out.print("Your number is "+result);
     }
 
 
